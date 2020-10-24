@@ -1,0 +1,15 @@
+plugin:
+  title: "§7§l[§f§lBlockHead§7§l]§7 "
+GUI:
+  Title: "§0您正在与 {Shopkeeper} §0对话... {Items}"
+  TradeUI: "{Items} for {Shopkeeper}"
+sounds:
+  default:
+    open: "UI_BUTTON_CLICK-1-1"
+    trade: "UI_BUTTON_CLICK-1-2"
+  pig:
+    open: "UI_BUTTON_CLICK-1-1"
+    trade: "UI_BUTTON_CLICK-1-2"
+  cow:
+    open: "UI_BUTTON_CLICK-1-1"
+    trade: "UI_BUTTON_CLICK-1-2"
